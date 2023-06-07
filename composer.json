@@ -1,0 +1,11 @@
+{
+    "name": "lucassilverio/php-tdd",
+    "description": "PHP With TDD",
+    "authors": [
+        {
+            "name": "Lucas Silverio",
+            "email": "lucas.silveriosousa@gmail.com"
+        }
+    ],
+    "require": {}
+}
